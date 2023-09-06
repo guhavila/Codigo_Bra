@@ -1,2 +1,0 @@
-# Codigo_Braço_Automatizado_BETA
-Codigo_Braço_Automatizado_Versao1
